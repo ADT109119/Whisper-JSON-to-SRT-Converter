@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.srt
+output.srt
+
 # C extensions
 *.so
 
